@@ -1,0 +1,32 @@
+body{
+    background-color:#b2d9f7;
+    color: #243a69;
+    font-family: 'Bebas Neue', cursive;
+}
+h1{
+    font-size: 45px;
+    color:#487aa1 ;
+}
+
+ li{
+    color:#487aa1 ;
+    font-size: 30px;
+}
+
+label{
+    font-size: 30px;
+}
+h3, p{
+    font-size: 30px;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    border-style: dashed;
+padding: 5px;
+margin: 40px;
+}
+footer{
+background-color:#506ee5
+}
